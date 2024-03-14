@@ -1,1 +1,1 @@
-# music-creation-digital-experience-GUI
+# Music Creation Digital Experience GUI
